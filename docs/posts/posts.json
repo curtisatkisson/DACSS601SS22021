@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-06-22-title-of-post/",
+    "title": "TITLE OF POST",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Meredith Rolfe",
+        "url": "http://umass.edu/sbs/dacss"
+      }
+    ],
+    "date": "2021-06-22",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-22T12:55:39-04:00",
+    "input_file": "title-of-post.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to DACSS 601",
     "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nreading what we have to say!",
@@ -13,9 +30,9 @@
     "categories": [
       "welcome"
     ],
-    "contents": "\n\n\n\n",
+    "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-04-12T23:39:36-04:00",
-    "input_file": {}
+    "last_modified": "2021-06-22T12:55:54-04:00",
+    "input_file": "welcome.knit.md"
   }
 ]

@@ -1,0 +1,29 @@
+---
+title: "Curtis test"
+description: |
+  Test these things.
+author:
+  - name: Curtis Test
+date: 06-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r echo=TRUE}
+x <- 2+2
+x
+x^2
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
